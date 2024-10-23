@@ -1,5 +1,5 @@
 # Dimensional-Motion
-Algorims to analyze data with noise or complex speeds. Deals with acceleration, speed, trends, and maxes and mins. Based off of a AP Physics lab. 
+Algorims to analyze data with noise or complex speeds. Deals with acceleration, speed, trends, and maxes and mins. Based off of an AP Physics lab. 
 
 
 Overview: Task is to analyze data collected in a physics lab. Will assess the following:
